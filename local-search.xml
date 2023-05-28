@@ -4,6 +4,25 @@
   
   
   <entry>
+    <title>Hexo进阶教程</title>
+    <link href="/2023/05/27/Hexo%E8%BF%9B%E9%98%B6%E6%95%99%E7%A8%8B/"/>
+    <url>/2023/05/27/Hexo%E8%BF%9B%E9%98%B6%E6%95%99%E7%A8%8B/</url>
+    
+    <content type="html"><![CDATA[<p>通过使用(Netlify)[<a href="https://www.netlify.com]所提供的CDN，来给你的博客做国内加速。">https://www.netlify.com]所提供的CDN，来给你的博客做国内加速。</a></p><h1 id="注册"><a href="#注册" class="headerlink" title="注册"></a>注册</h1><p>前往(Netlify官网)[<a href="https://app.netlify.com/signup]%EF%BC%8C%E6%B3%A8%E5%86%8C%E8%B4%A6%E5%8F%B7%E3%80%82%E4%B8%80%E8%88%AC%E6%9D%A5%E8%AF%B4%EF%BC%8C%E4%BD%BF%E7%94%A8GitHub%E8%B4%A6%E5%8F%B7%E5%B0%B1%E5%8F%AF%E6%B3%A8%E5%86%8C%EF%BC%88%E4%B8%8A%E4%B8%8D%E5%8E%BBGitHub%E7%9A%84%E8%87%AA%E5%B7%B1%E6%90%9C%E5%8A%A0%E9%80%9F%E6%95%99%E7%A8%8B%EF%BC%89%E3%80%82">https://app.netlify.com/signup]，注册账号。一般来说，使用GitHub账号就可注册（上不去GitHub的自己搜加速教程）。</a><br>此时，你应该已经获得了一个team了。</p><h1 id="创建页面"><a href="#创建页面" class="headerlink" title="创建页面"></a>创建页面</h1><p>找到网站上的「Add site」。</p><img src="/2023/05/27/Hexo%E8%BF%9B%E9%98%B6%E6%95%99%E7%A8%8B/netlifypage.png" class=""><p>接下来，依序点击「Import an existing project」- 「GitHub」（可能需要验证）- 「&lt;你的GitHub用户名&gt;&#x2F;&lt;你的GitHub用户名&gt;.github.io」- 「Deploy」。<br>这样，站点就部署完毕了。稍后一会儿，就可以看到了～</p><h1 id="配置设置"><a href="#配置设置" class="headerlink" title="配置设置"></a>配置设置</h1><p>首先点开你的网站（位置如下图）</p><img src="/2023/05/27/Hexo%E8%BF%9B%E9%98%B6%E6%95%99%E7%A8%8B/netlifycon.png" class=""><p>接下来，找到页面上方「Site Settings」-「General」-「Site Details」-「Site Information」-「Change site name」，选一个你喜欢的名字。</p><h1 id="GO！"><a href="#GO！" class="headerlink" title="GO！"></a>GO！</h1><p>最后，就可以从「https:&#x2F;&#x2F;&lt;你的站点名&gt;.netlify.app」查看最后效果啦～</p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>Hexo</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Hexo保姆级教程（二）</title>
     <link href="/2023/05/27/Hexo%E4%BF%9D%E5%A7%86%E7%BA%A7%E6%95%99%E7%A8%8B%EF%BC%88%E4%BA%8C%EF%BC%89/"/>
     <url>/2023/05/27/Hexo%E4%BF%9D%E5%A7%86%E7%BA%A7%E6%95%99%E7%A8%8B%EF%BC%88%E4%BA%8C%EF%BC%89/</url>
@@ -14,7 +33,7 @@
     
     <tags>
       
-      <tag>hexo</tag>
+      <tag>Hexo</tag>
       
     </tags>
     
@@ -31,6 +50,12 @@
     
     
     
+    <tags>
+      
+      <tag>Hexo</tag>
+      
+    </tags>
+    
   </entry>
   
   
@@ -43,7 +68,7 @@
     <link href="/"/>
     <url>/</url>
     
-    <content type="html"><![CDATA[<p>我是<a href="https://github.com/Sinetian">Sinetian</a>，一位来自中国的作死型Mac用户。</p><h2 id="个人喜好"><a href="#个人喜好" class="headerlink" title="个人喜好"></a>个人喜好</h2><p>收集原神图、二次元、表情包，喜欢Minecraft（但基本弃坑），还喜欢聊天</p><h2 id="联系方式"><a href="#联系方式" class="headerlink" title="联系方式"></a>联系方式</h2><p><a href="https://github.com/Sinetian">GitHub</a><br>OutLook: <a href="mailto:&#x6c;&#x69;&#117;&#x6a;&#x69;&#x6e;&#x67;&#121;&#x75;&#50;&#48;&#x32;&#x30;&#64;&#x6f;&#x75;&#x74;&#108;&#111;&#111;&#107;&#x2e;&#x63;&#111;&#x6d;">&#x6c;&#x69;&#117;&#x6a;&#x69;&#x6e;&#x67;&#121;&#x75;&#50;&#48;&#x32;&#x30;&#64;&#x6f;&#x75;&#x74;&#108;&#111;&#111;&#107;&#x2e;&#x63;&#111;&#x6d;</a></p>]]></content>
+    <content type="html"><![CDATA[<p>我是<a href="https://github.com/Sinetian">Sinetian</a>，一位来自中国的作死型Mac用户。</p><h2 id="个人喜好"><a href="#个人喜好" class="headerlink" title="个人喜好"></a>个人喜好</h2><p>收集原神图、二次元、表情包，喜欢Minecraft（但基本弃坑），还喜欢聊天</p><h2 id="联系方式"><a href="#联系方式" class="headerlink" title="联系方式"></a>联系方式</h2><p><a href="https://github.com/Sinetian">GitHub</a><br>OutLook: <a href="mailto:&#108;&#x69;&#117;&#x6a;&#105;&#110;&#103;&#x79;&#x75;&#x32;&#x30;&#x32;&#48;&#64;&#111;&#117;&#116;&#108;&#x6f;&#111;&#x6b;&#46;&#x63;&#x6f;&#x6d;">&#108;&#x69;&#117;&#x6a;&#105;&#110;&#103;&#x79;&#x75;&#x32;&#x30;&#x32;&#48;&#64;&#111;&#117;&#116;&#108;&#x6f;&#111;&#x6b;&#46;&#x63;&#x6f;&#x6d;</a></p>]]></content>
     
   </entry>
   
