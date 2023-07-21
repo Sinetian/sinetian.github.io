@@ -4,11 +4,30 @@
   
   
   <entry>
+    <title>使用GitHub Actions测试Java代码</title>
+    <link href="/2023/06/26/%E4%BD%BF%E7%94%A8GitHub-Actions%E6%B5%8B%E8%AF%95Java%E4%BB%A3%E7%A0%81/"/>
+    <url>/2023/06/26/%E4%BD%BF%E7%94%A8GitHub-Actions%E6%B5%8B%E8%AF%95Java%E4%BB%A3%E7%A0%81/</url>
+    
+    <content type="html"><![CDATA[<p>「GitHub Actions真的是个好东西。」</p><h1 id="入门"><a href="#入门" class="headerlink" title="入门"></a>入门</h1><p>首先你得会Java</p><p>[没写完]</p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>GitHub</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Hexo进阶教程</title>
     <link href="/2023/05/27/Hexo%E8%BF%9B%E9%98%B6%E6%95%99%E7%A8%8B/"/>
     <url>/2023/05/27/Hexo%E8%BF%9B%E9%98%B6%E6%95%99%E7%A8%8B/</url>
     
-    <content type="html"><![CDATA[<p>通过使用<a href="https://www.netlify.com/">Netlify</a>所提供的CDN，来给你的博客做国内加速。</p><h1 id="注册"><a href="#注册" class="headerlink" title="注册"></a>注册</h1><p>前往<a href="https://app.netlify.com/signup">Netlify官网</a>，注册账号。一般来说，使用GitHub账号就可注册（上不去GitHub的自己搜加速教程）。<br>此时，你应该已经获得了一个team了。</p><h1 id="创建页面"><a href="#创建页面" class="headerlink" title="创建页面"></a>创建页面</h1><p>找到网站上的「Add site」。</p><img src="/2023/05/27/Hexo%E8%BF%9B%E9%98%B6%E6%95%99%E7%A8%8B/netlifypage.png" class=""><p>接下来，依序点击「Import an existing project」- 「GitHub」（可能需要验证）- 「&lt;你的GitHub用户名&gt;&#x2F;&lt;你的GitHub用户名&gt;.github.io」- 「Deploy」。<br>这样，站点就部署完毕了。稍后一会儿，就可以看到了～</p><h1 id="配置设置"><a href="#配置设置" class="headerlink" title="配置设置"></a>配置设置</h1><p>首先点开你的网站（位置如下图）</p><img src="/2023/05/27/Hexo%E8%BF%9B%E9%98%B6%E6%95%99%E7%A8%8B/netlifycon.png" class=""><p>接下来，找到页面上方「Site Settings」-「General」-「Site Details」-「Site Information」-「Change site name」，选一个你喜欢的名字。</p><h1 id="GO！"><a href="#GO！" class="headerlink" title="GO！"></a>GO！</h1><p>最后，就可以从「https:&#x2F;&#x2F;&lt;你的站点名&gt;.netlify.app」查看最后效果啦～</p>]]></content>
+    <content type="html"><![CDATA[<div class="note note-warning">            <p>警告：笔者于2023-07-13试图使用该博客的netlify地址时失败，请自行尝试此方案可行性。</p>          </div><p>通过使用<a href="https://www.netlify.com/">Netlify</a>所提供的CDN，来给你的博客做国内加速。</p><h1 id="注册"><a href="#注册" class="headerlink" title="注册"></a>注册</h1><p>前往<a href="https://app.netlify.com/signup">Netlify官网</a>，注册账号。一般来说，使用GitHub账号就可注册（上不去GitHub的自己搜加速教程）。<br>此时，你应该已经获得了一个team了。</p><h1 id="创建页面"><a href="#创建页面" class="headerlink" title="创建页面"></a>创建页面</h1><p>找到网站上的「Add site」。</p><img src="/2023/05/27/Hexo%E8%BF%9B%E9%98%B6%E6%95%99%E7%A8%8B/netlifypage.png" class=""><p>接下来，依序点击「Import an existing project」- 「GitHub」（可能需要验证）- 「&lt;你的GitHub用户名&gt;&#x2F;&lt;你的GitHub用户名&gt;.github.io」- 「Deploy」。<br>这样，站点就部署完毕了。稍后一会儿，就可以看到了～</p><h1 id="配置设置"><a href="#配置设置" class="headerlink" title="配置设置"></a>配置设置</h1><p>首先点开你的网站（位置如下图）</p><img src="/2023/05/27/Hexo%E8%BF%9B%E9%98%B6%E6%95%99%E7%A8%8B/netlifycon.png" class=""><p>接下来，找到页面上方「Site Settings」-「General」-「Site Details」-「Site Information」-「Change site name」，选一个你喜欢的名字。</p><h1 id="GO！"><a href="#GO！" class="headerlink" title="GO！"></a>GO！</h1><p>最后，就可以从「https:&#x2F;&#x2F;&lt;你的站点名&gt;.netlify.app」查看最后效果啦～</p>]]></content>
     
     
     
@@ -68,7 +87,7 @@
     <link href="/"/>
     <url>/</url>
     
-    <content type="html"><![CDATA[<p>我是<a href="https://github.com/Sinetian">Sinetian</a>，一位来自中国的作死型Mac用户。</p><h2 id="个人喜好"><a href="#个人喜好" class="headerlink" title="个人喜好"></a>个人喜好</h2><p>收集原神图、二次元、表情包，喜欢Minecraft（但基本弃坑），还喜欢聊天</p><h2 id="联系方式"><a href="#联系方式" class="headerlink" title="联系方式"></a>联系方式</h2><p><a href="https://github.com/Sinetian">GitHub</a><br>OutLook: <a href="mailto:&#x6c;&#105;&#x75;&#106;&#x69;&#110;&#x67;&#121;&#117;&#x32;&#48;&#50;&#x30;&#x40;&#x6f;&#x75;&#x74;&#x6c;&#x6f;&#111;&#107;&#x2e;&#x63;&#x6f;&#109;">&#x6c;&#105;&#x75;&#106;&#x69;&#110;&#x67;&#121;&#117;&#x32;&#48;&#50;&#x30;&#x40;&#x6f;&#x75;&#x74;&#x6c;&#x6f;&#111;&#107;&#x2e;&#x63;&#x6f;&#109;</a></p>]]></content>
+    <content type="html"><![CDATA[<p>我是<a href="https://github.com/Sinetian">Sinetian</a>，一位来自中国的作死型Mac用户。</p><h2 id="个人喜好"><a href="#个人喜好" class="headerlink" title="个人喜好"></a>个人喜好</h2><p>收集原神图、二次元、表情包，喜欢Minecraft（但基本弃坑），还喜欢聊天</p><h2 id="联系方式"><a href="#联系方式" class="headerlink" title="联系方式"></a>联系方式</h2><p><a href="https://github.com/Sinetian">GitHub</a><br>OutLook: <a href="mailto:&#108;&#x69;&#x75;&#x6a;&#105;&#x6e;&#103;&#121;&#x75;&#50;&#x30;&#50;&#x30;&#x40;&#x6f;&#x75;&#x74;&#108;&#x6f;&#111;&#x6b;&#46;&#x63;&#111;&#109;">&#108;&#x69;&#x75;&#x6a;&#105;&#x6e;&#103;&#121;&#x75;&#50;&#x30;&#50;&#x30;&#x40;&#x6f;&#x75;&#x74;&#108;&#x6f;&#111;&#x6b;&#46;&#x63;&#111;&#109;</a></p>]]></content>
     
   </entry>
   
